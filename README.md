@@ -24,8 +24,6 @@ example里面的例子可以使用node xxx.js打开查看效果
 
 ## 一些文章收藏
 
-## 文章收藏
-
 ### 前端性能
 
 Web 动画帧率（FPS）计算 https://cloud.tencent.com/developer/article/1136705
