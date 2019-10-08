@@ -38,7 +38,7 @@ example里面的例子可以使用node xxx.js打开查看效果
 
 ### 浏览器原理
 
-[Chrome 浏览器页面渲染工作原理浅析](https://www.xuejiayuan.net/blog/4715edc9c6fa414cb549357232014af3]
+[Chrome 浏览器页面渲染工作原理浅析](https://www.xuejiayuan.net/blog/4715edc9c6fa414cb549357232014af3)
 
 [[知乎] 开发一款浏览器内核需要学习哪些方面的知识？](https://www.zhihu.com/question/20736986)
 
