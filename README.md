@@ -42,6 +42,8 @@ example里面的例子可以使用node xxx.js打开查看效果
 
 [[知乎] 开发一款浏览器内核需要学习哪些方面的知识？](https://www.zhihu.com/question/20736986)
 
+[解决input[type=file]打开时慢、卡顿问题](https://segmentfault.com/a/1190000010397414)
+
 
 
 ### 代码相关
