@@ -73,3 +73,6 @@ example里面的例子可以使用node xxx.js打开查看效果
 ### PWA
 
 [你的第一个渐进式 Web 应用](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=zh-cn)
+
+### 博客收藏
+[David Walsh Blog](https://davidwalsh.name/)
