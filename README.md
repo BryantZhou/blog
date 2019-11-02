@@ -34,6 +34,7 @@ example里面的例子可以使用node xxx.js打开查看效果
 
 [浅谈 Web 应用的内存优化](https://news.aotu.io/a/5d42b14da91c930069fab4ca?utm_medium=lite02_web&utm_source=aotu_io)
 
+[一些React性能监控工具推荐](https://wulv.site/2017-07-01/react-perf-tools.html)
 
 
 ### 浏览器原理
