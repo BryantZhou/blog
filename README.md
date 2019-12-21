@@ -79,4 +79,6 @@ example里面的例子可以使用node xxx.js打开查看效果
 
 ### 博客收藏
 
+[Dan Abramov 的个人博客](https://overreacted.io/)
+
 [David Walsh Blog](https://davidwalsh.name/)
