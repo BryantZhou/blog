@@ -72,10 +72,12 @@ example里面的例子可以使用node xxx.js打开查看效果
 [Electorn唤醒](https://zhuanlan.zhihu.com/p/76172940)
 
 
-
 ### PWA
 
 [你的第一个渐进式 Web 应用](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=zh-cn)
+
+### 单元测试
+[React 单元测试策略及落地](https://www.infoq.cn/article/AsmLfdI3Pi_vEPxpO3Lu)
 
 ### 博客收藏
 
