@@ -78,7 +78,7 @@ example里面的例子可以使用node xxx.js打开查看效果
 
 ### 单元测试
 
-[React单元测试策略及落地](https://insights.thoughtworks.cn/react-strategies-for-unit-testing/)
+[React单元测试策略及落地](https://www.infoq.cn/article/AsmLfdI3Pi_vEPxpO3Lu)
 
 ### 博客收藏
 
