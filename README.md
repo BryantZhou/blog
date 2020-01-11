@@ -77,7 +77,8 @@ example里面的例子可以使用node xxx.js打开查看效果
 [你的第一个渐进式 Web 应用](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=zh-cn)
 
 ### 单元测试
-[React 单元测试策略及落地](https://www.infoq.cn/article/AsmLfdI3Pi_vEPxpO3Lu)
+
+[React单元测试策略及落地](https://insights.thoughtworks.cn/react-strategies-for-unit-testing/)
 
 ### 博客收藏
 
